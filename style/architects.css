@@ -123,7 +123,7 @@ color: #131313;
   border-left: 5px solid #FF900E;
   padding-left: 20px;
 }
-.features .img-part img{
+.features .image-part img{
  height: 100%;
  margin-left: 50px;
 }
@@ -220,8 +220,8 @@ margin-top: 1px;
   .facts-container{
     gap: 20px;
   }
-  .img-part{
-    width: 80%;
+  .features .image-part img{
+    width: 100%;
     margin-left:0;
 
   }
